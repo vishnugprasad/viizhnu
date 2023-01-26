@@ -15,7 +15,6 @@
 
 :root{
     --color-bg: #1f1f38;
-    
     --color-bg-variant: #2c2c6c;
     --color--primary: #4db5ff;
     --color--primary-variant: rgba(77,181,255, 0.4);
@@ -25,6 +24,15 @@
     --container-width-lg: 75%;
     --container-width-md: 86%;
     --container-width-sm: 90%;
+
+
+    /* --color-bg: #26265c ;
+    --color-bg-variant: #4b6c43 ;
+    --color--primary: #58e5d9; */
+
+
+
+    
 }
 
 html{
