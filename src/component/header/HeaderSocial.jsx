@@ -7,11 +7,9 @@ import {FiInstagram} from 'react-icons/fi'
 const HeaderSocial = () => {
   return (
     <div className='header__social'>
-        <a href='https://linkedin.com' target = "_blank"><BsLinkedin/></a>
+        <a href='https://www.linkedin.com/in/vishnugangaprasad/' target = "_blank"><BsLinkedin/></a>
         <a href='https://github.com/vishnugprasad' target = "_blank"><FaGithub/></a>
         <a href='https://www.instagram.com/blockchain.unchained/' target = "_blank"><FiInstagram/></a>
-
-
     </div>
   )
 }
