@@ -24,16 +24,21 @@
     --container-width-lg: 75%;
     --container-width-md: 86%;
     --container-width-sm: 90%;
-
-
-    /* --color-bg: #26265c ;
-    --color-bg-variant: #4b6c43 ;
-    --color--primary: #58e5d9; */
-
-
-
-    
 }
+
+/* :root{
+    --color-bg: #ede4e4;
+    --color-bg-variant: #4c0486;
+    --color--primary: #934f00;
+    --color--primary-variant: rgb(202, 141, 10);
+    --color-white: rgb(135, 127, 127);
+    --color--light: rgb(20, 18, 18);
+    --transition: all 400ms ease;
+    --container-width-lg: 75%;
+    --container-width-md: 86%;
+    --container-width-sm: 90%;
+} */
+
 
 html{
     scroll-behavior: smooth;

@@ -28,6 +28,13 @@ const data = [
     title: 'OFFICE SEATBOOKING',
     github: 'https://github.com/vishnugprasad/Hours-subsidary-',
     demo: 'https://seatbookinghours.netlify.app/'
+  },
+  {
+    id: 4,
+    image: IMG4,
+    title: 'Yellow Doggy NFT collection',
+    github: '',
+    demo: 'https://opensea.io/collection/yellow-doggy'
   }
 ]
 

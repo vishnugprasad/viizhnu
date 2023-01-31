@@ -50,11 +50,11 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Experience with responsive design, CSS frameworks, and accessibility</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Understanding of React components, state, props, and JSX</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />

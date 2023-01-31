@@ -42,9 +42,13 @@ const About = () => {
             </article>
             
           </div>
-          <p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam beatae pariatur recusandae atque 
-            laboriosam asperiores optio accusantium nam obcaecati sunt amet aliquam ad dolore reiciendis corrupti
-             enim iste, impedit ut.
+          <p> Full Stack Developer and Blockchain Development Enthusiast with experience in creating and 
+            implementing cutting-edge solutions. Passionate about blockchain technology and its potential 
+            to revolutionize business operations. Produce daily content on blockchain development to educate 
+            and inform others about this exciting field. Skilled in a variety of programming languages and 
+            frameworks, including JavaScript, React, CSS , Rust and Solidity. Proven ability to deliver 
+            high-quality, secure, and efficient software on time. Always eager to learn new 
+            technologies and skills to stay ahead of the curve.
              </p>
              <a href='#contact' className='btn btn-primary'> Let's Talk</a>
         </div>
