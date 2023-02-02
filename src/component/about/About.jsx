@@ -48,7 +48,7 @@ const About = () => {
             and inform others about this exciting field. Skilled in a variety of programming languages and 
             frameworks, including JavaScript, React, CSS , Rust and Solidity. Proven ability to deliver 
             high-quality, secure, and efficient software on time. Always eager to learn new 
-            technologies and skills to stay ahead of the curve.
+            technologies and skills to stay ahead of the curve
              </p>
              <a href='#contact' className='btn btn-primary'> Let's Talk</a>
         </div>
