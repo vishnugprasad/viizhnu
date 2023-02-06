@@ -35,6 +35,13 @@ const data = [
     title: 'Yellow Doggy NFT collection',
     github: '',
     demo: 'https://opensea.io/collection/yellow-doggy'
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: 'IPL Analytics',
+    github: 'https://github.com/vishnugprasad/IPL-Klutchh',
+    demo: 'https://ipl-klutchh.netlify.app/'
   }
 ]
 
