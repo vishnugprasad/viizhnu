@@ -42,6 +42,13 @@ const data = [
     title: 'IPL Analytics',
     github: 'https://github.com/vishnugprasad/IPL-Klutchh',
     demo: 'https://ipl-klutchh.netlify.app/'
+  },
+  {
+    id: 6,
+    image: IMG6,
+    title: 'Web3 Game',
+    github: 'https://github.com/vishnugprasad/web3.0game',
+    demo: 'https://app.netlify.com/sites/web3hoppergame/settings/general'
   }
 ]
 
