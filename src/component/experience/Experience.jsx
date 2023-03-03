@@ -65,7 +65,7 @@ const Experience = () => {
               <BsShieldFillCheck className="experience__details-icon"/>
               <div>
               <h4>MongoDB</h4>
-              <small className="text-light">Experienced</small>
+              <small className="text-light">Intermediate</small>
               </div>
             </article>
             <article className="experience__details">

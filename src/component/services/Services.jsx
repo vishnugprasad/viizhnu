@@ -10,31 +10,23 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>UI Design</h3>
+            <h3>UBackend Development</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Thorough understanding of asynchronous programming in Node.js using callbacks, Promises, and async/await</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Skilled in designing and implementing RESTful APIs that conform to industry standards and best practices.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Passion for learning and staying up-to-date with the latest trends and best practices in Node.js development.</p>
             </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            
+
             
           </ul>
         </article>
@@ -44,29 +36,29 @@ const Services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>Web development</h3>
+            <h3>Frontend Development</h3>
           </div>
 
           <ul className="service__list">
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Experience with responsive design, CSS frameworks, and accessibility</p>
-            </li>
             <li>
               <BiCheck className="service__list-icon" />
               <p>Understanding of React components, state, props, and JSX</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Familiar with using React hooks to manage component state and implement side effects</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Skilled in developing reusable and modular React components that follow best practices and design patterns</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Thorough understanding of state management in React using concepts like useState, useContext, and useReducer</p>
+            </li>
+            <li>
+              <BiCheck className="service__list-icon" />
+              <p>Proficient in implementing responsive design using CSS media queries and flexbox/grid layouts</p>
             </li>
             
             
@@ -82,30 +74,23 @@ const Services = () => {
 
         <article className="service">
           <div className="service__head">
-            <h3>content creation</h3>
+            <h3>Content Creation</h3>
           </div>
 
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Strong communication skills and ability to write and articulate ideas in a clear, concise, and engaging manner.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Passion for sharing knowledge and helping others succeed in their professional journeys.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
+              <p>Proficient in creating engaging content for LinkedIn that highlights my expertise and industry knowledge.</p>
             </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.</p>
-            </li>
+           
             
             
           </ul>
