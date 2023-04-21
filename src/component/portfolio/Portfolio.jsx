@@ -4,8 +4,9 @@ import IMG1 from "../../assets/portfolio1.jpg";
 import IMG2 from "../../assets/portfolio2.jpg";
 import IMG3 from "../../assets/portfolio3.jpg";
 import IMG4 from "../../assets/portfolio4.jpg";
-import IMG5 from "../../assets/portfolio5.png";
+import IMG5 from "../../assets/portfolio5.jpg";
 import IMG6 from "../../assets/portfolio6.jpg";
+import IMG8 from "../../assets/portfolio8.png";
 
 const data = [
   {
@@ -31,20 +32,27 @@ const data = [
   },
   {
     id: 4,
+    image: IMG8,
+    title: 'META CART',
+    github: 'https://github.com/vishnugprasad/shoppingCart',
+    demo: 'https://metacartgp.netlify.app/'
+  },
+  {
+    id: 5,
     image: IMG4,
     title: 'Yellow Doggy NFT collection',
     github: '',
     demo: 'https://opensea.io/collection/yellow-doggy'
   },
   {
-    id: 5,
+    id: 6,
     image: IMG5,
     title: 'IPL Analytics',
     github: 'https://github.com/vishnugprasad/IPL-Klutchh',
-    demo: 'https://ipl-klutchh.netlify.app/'
+    demo: 'https://ipl-klutchh.netlify.app/' 
   },
   {
-    id: 6,
+    id: 7,
     image: IMG6,
     title: 'Web3 Game',
     github: 'https://github.com/vishnugprasad/web3.0game',
