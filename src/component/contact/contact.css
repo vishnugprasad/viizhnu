@@ -69,7 +69,7 @@ input, textarea{
     }
 }
 
-/*-------media queries [mobile]..........*/
+/*-------media queries [mobile]........ ..*/
 
 @media screen and (max-width: 600px){
     .container.contact__container{
